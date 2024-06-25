@@ -17,8 +17,7 @@ public class Main {
         minhArvore.exibirInOrnem();
         minhArvore.exibirPreOrdem();
         minhArvore.exibirPosOrdem();
-        minhArvore.remover(21);
-
+        
 
     }
 }
